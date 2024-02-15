@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there, i am 👋
+# Marats
 
-**Marat200118/Marat200118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developmet student (Traveller, Athlete and Explorer)
 
 Here are some ideas to get you started:
 
