@@ -1,6 +1,6 @@
 ## 🥷Coding Ninja🥷
 
-**Hi, I am Marats Samigullins - Software developmet student - (Traveller, Athlete and Explorer)
+###Hi, I am Marats Samigullins - Software developmet student - (Traveller, Athlete and Explorer)
 
 I'm a software developer student, who is familiar also with a design, motion and other cool stuff. Who likes travelling, hiking and sports 🦾
 
