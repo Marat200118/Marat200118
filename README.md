@@ -1,4 +1,4 @@
-## 🥷Software Ninja🥷
+## 🥷
 
 ### Hi, I am Marats Samigullins - Software developmet student - (Traveller, Athlete and Explorer)
 
