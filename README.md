@@ -1,12 +1,12 @@
 ## 🥷
 
-### Hi, I am Marats Samigullins - Software developmet student - (Traveller, Athlete and Explorer)
+### Hi, I am Marats Samigullins - Software Engineer - (Traveller, Athlete and Explorer)
 
-I'm a software developer student, who is familiar also with a design, motion and other cool stuff. Who likes travelling, hiking and sports 🦾
+I'm a software developer, who is familiar also with a design, motion and other cool stuff. Who likes travelling, hiking and sports 🦾
 
-- 🔭 I’m currently studying at Howest university of applied sciences - Devine (Digital Design and Development) https://www.devine.be/ 🎓
-- 🧑‍💻 I’m currently learning React Native, WebGL, Three.js, Playwright, Server side programming ⌨️
-- 🎯 I'm already familiar with JS, HTML/CSS, Node.js, React, PoseNet, ML5.js, Astro, Strapi, GSAP, Lottie Animations, Websockets, WebRTC and etc. (Check out my projects) 😏
+- 🔭 Finished Howest university of applied sciences - Devine (Digital Design and Development) https://www.devine.be/ 🎓
+- 🧑‍💻 I’m currently working as a Full-Stack Software Engineer in Emerald Stay https://emeraldstay.com/
+- 🎯 I'm familiar with JS, HTML/CSS, Node.js, React, React Native, WebGL, Three.js, Playwright, PoseNet, ML5.js, Astro, Strapi, GSAP, Lottie Animations, Websockets, WebRTC and etc. (Check out my projects) 😏
 
 
 ### Languages and Tools:
